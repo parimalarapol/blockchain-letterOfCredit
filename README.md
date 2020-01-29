@@ -3,19 +3,19 @@
 This repository is for my academic project. Enhanced a **Trading and Letter of Credit** with **Hyperledger Composer and Hyperledger Fabric**.
 
 The	transactions are	as	follows:  
-1.Importer	requests	goods	from	the	exporter	in	exchange	of	money  
-2.Exporter	accepts	the	trade	deal  
-3.Importer	asks	its	bank	for	an	L/C	in	favor	of	the	exporter  
-4.The	importer's	bank	supplies	an	L/C	in	favor	of	the	exporter,	and	payable	to the	latter's	bank  
-5.The	exporter's	bank	accepts	the	L/C	on	behalf	of	the	exporter  
-6.Exporter	applies	for	an	E/L	from	the	regulatory	authority  
-7.Regulatory	authority	supplies	an	E/L	to	the	exporter  
-8.Exporter	prepares	a	shipment	and	hands	it	off	to	the	carrier  
-9.The	carrier	accepts	the	goods	after	validating	the	E/L,	and	then	supplies	a B/L	to	the	exporter  
-10.The	exporter's	bank	claims	half	the	payment	from	the	importer's	bank  
-11.The	importer's	bank	transfers	half	the	amount	to	the	exporter's	bank  
-12.The	carrier	ships	the	goods	to	the	destination  
-13.The	importer's	bank	pays	the	remaining	amount	to	the	exporter's	bank  
+1. Importer	requests	goods	from	the	exporter	in	exchange	of	money  
+2. Exporter	accepts	the	trade	deal  
+3. Importer	asks	its	bank	for	an	L/C	in	favor	of	the	exporter  
+4. The	importer's	bank	supplies	an	L/C	in	favor	of	the	exporter,	and	payable	to the	latter's	bank  
+5. The	exporter's	bank	accepts	the	L/C	on	behalf	of	the	exporter  
+6. Exporter	applies	for	an	E/L	from	the	regulatory	authority  
+7. Regulatory	authority	supplies	an	E/L	to	the	exporter  
+8. Exporter	prepares	a	shipment	and	hands	it	off	to	the	carrier  
+9. The	carrier	accepts	the	goods	after	validating	the	E/L,	and	then	supplies	a B/L	to	the	exporter  
+10. The	exporter's	bank	claims	half	the	payment	from	the	importer's	bank  
+11. The	importer's	bank	transfers	half	the	amount	to	the	exporter's	bank  
+12. The	carrier	ships	the	goods	to	the	destination  
+13. The	importer's	bank	pays	the	remaining	amount	to	the	exporter's	bank  
 
 
 ## Lab 1
