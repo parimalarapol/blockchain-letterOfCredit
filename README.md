@@ -1,6 +1,6 @@
 # blockchain-letterOfCredit
 
-This repository is for my academic project. Enhanced a **Trading and Letter of Credit** with **Hyperledger Composer and Hyperledger Fabric**.
+This repository is for my academic project. Enhanced a **Trading and Letter of Credit** with **Hyperledger Composer and Hyperledger Fabric**. The	scenario is a	simple	transaction - sale	of	goods from	one	party	to	another.	This	transaction	is	complicated	by	the	fact	that	the buyer	and	the	seller have	no	common	trusted intermediary to	ensure	that	the	exporter	gets	the	money	he was	promised	and	the importer	gets	the	goods
 
 The	transactions are	as	follows:  
 1. Importer	requests	goods	from	the	exporter	in	exchange	of	money  
