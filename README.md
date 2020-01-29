@@ -33,7 +33,7 @@ The	transactions are	as	follows:
 ### Transfer of Funds
 ![Alt text](https://github.com/parimalarapol/blockchain-letterOfCredit/blob/master/assets/funds-transfer.JPG)
 
-## Lab 1
+## Project Highlights
 - Install Docker Compose
 - Install Business Network Pre-Reqs
 - Install GO Language
@@ -41,18 +41,12 @@ The	transactions are	as	follows:
 - Generate Network Cryptographic Material
 - Launch the Sample Trade Network
 - Verifying your Business Network
-
-## Lab 2
 - Launch the sample trade network in dev mode
 - Install and run the chaincode on the channel
 - Test the Chaincode
-
-## Lab 3
 - Building an application: Installing Tools and dependencies
 - Configuring the network and application
 - Install, run and invoke the chaincode
 - Run the blockchain client application
-
-## Lab 4
 - Install the Letter of Credit sample application
 - Run the Letter of Credit application
