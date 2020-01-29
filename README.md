@@ -21,6 +21,18 @@ The	transactions are	as	follows:
 ## Flow Diagram
 ![Alt text](https://github.com/parimalarapol/blockchain-letterOfCredit/blob/master/assets/flowDiagram_loc.PNG)
 
+### Virtual Connect to Ubuntu-Xenial
+![Alt text](https://github.com/parimalarapol/blockchain-letterOfCredit/blob/master/assets/ubuntu-xenial.JPG)
+
+### Hyperledger Composer GUI Running
+![Alt text](https://github.com/parimalarapol/blockchain-letterOfCredit/blob/master/assets/composer.JPG)
+
+### Letter of Credit
+![Alt text](https://github.com/parimalarapol/blockchain-letterOfCredit/blob/master/assets/loc-details.JPG)
+
+### Transfer of Funds
+![Alt text](https://github.com/parimalarapol/blockchain-letterOfCredit/blob/master/assets/funds-transfer.JPG)
+
 ## Lab 1
 - Install Docker Compose
 - Install Business Network Pre-Reqs
