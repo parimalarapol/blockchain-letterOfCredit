@@ -2,7 +2,7 @@
 
 This repository is for my academic project. Enhanced a **Trading and Letter of Credit** with **Hyperledger Composer and Hyperledger Fabric**.
 
-The	transactions are	as	follows: 
+The	transactions are	as	follows:  
 1.Importer	requests	goods	from	the	exporter	in	exchange	of	money 
 2.Exporter	accepts	the	trade	deal 
 3.Importer	asks	its	bank	for	an	L/C	in	favor	of	the	exporter 
