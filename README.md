@@ -19,7 +19,7 @@ The	transactions are	as	follows:
 
 
 ## Flow Diagram
-![Alt text](assets/flowDiagram_loc.png)
+![Alt text](https://github.com/parimalarapol/blockchain-letterOfCredit/blob/master/assets/flowDiagram_loc.PNG)
 
 ## Lab 1
 - Install Docker Compose
