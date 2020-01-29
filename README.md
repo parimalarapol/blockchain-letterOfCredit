@@ -18,6 +18,9 @@ The	transactions are	as	follows:
 13. The	importer's	bank	pays	the	remaining	amount	to	the	exporter's	bank  
 
 
+## Flow Diagram
+![packageFile](/assets/flowDiagram_loc.png)
+
 ## Lab 1
 - Install Docker Compose
 - Install Business Network Pre-Reqs
