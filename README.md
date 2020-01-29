@@ -19,6 +19,7 @@ The	transactions are	as	follows:
 
 
 ## Flow Diagram
+![Alt text](/assets/flowDiagram_loc.png)
 ![packageFile](/assets/flowDiagram_loc.png)
 
 ## Lab 1
